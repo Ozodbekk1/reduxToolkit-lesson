@@ -1,0 +1,1 @@
+export const icon = 'https://media.graphassets.com/BldVa3tyRDy2QkoyQq9R'
