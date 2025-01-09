@@ -10,7 +10,7 @@ const Input = ({label, state, setState, type = 'text'}) => {
             onChange={e => setState(e.target.value)}
             id='floatingInput'
             // eslint-disable-next-line react/no-unknown-property
-            placeholder={label} /><label For='floatingInput'>{label}</label>
+            placeholder={label} /><label htmlFor='floatingInput'>{label}</label>
             </div>
             </>
 
